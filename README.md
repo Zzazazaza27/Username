@@ -21,3 +21,7 @@ MITM proxy,
 
 📫 Как связаться со мной:
 - [Telegram] @O3EPO_HEHAB1CTU
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=dark)
+
